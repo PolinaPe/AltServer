@@ -1,1 +1,1 @@
-# AltServer
+# ServerApp
